@@ -1,0 +1,5 @@
+.image-background-shadow {
+  -webkit-box-shadow: -1px 4px 14px 0px rgba(34, 60, 80, 0.37);
+  -moz-box-shadow: -1px 4px 14px 0px rgba(34, 60, 80, 0.37);
+  box-shadow: -1px 4px 14px 0px rgba(34, 60, 80, 0.37);
+}
